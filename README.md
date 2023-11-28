@@ -61,8 +61,8 @@ The file should contain a header and have the following format:
 
 id	quality
 
+1	1
+
 # Acknowledgement
 
 We thank P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis for providing this dataset.
-
-1	1
