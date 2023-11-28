@@ -1,2 +1,2 @@
 # Wine-prediction
-Quality prediction in red and white types
+Analyze and predict wine quality with 2 types of red and white
