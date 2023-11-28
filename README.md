@@ -51,7 +51,7 @@ For more information, read [Cortez et al., 2009]. Input variables (based on phys
 
 11 - alcohol
 
-12 - type: while or red
+12 - type: white or red
 
 Output variable (based on sensory data):
 
